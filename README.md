@@ -1,7 +1,7 @@
 jQuery Latest Flash Plugin 
 ===================
 
-A jQuery plugin which returns the latest version of Flash for a given operating system, version and browser.
+A jQuery plugin which returns the latest version of Adobe Flash for a given operating system, version and browser.
 
 Usage
 -----
@@ -33,9 +33,9 @@ Browser names must be one of "ie", "firefox", "chrome", "mozilla", "netscape", "
 
 Notes
 -----
-There are many good libraries for detecting the users OS, version and browser so this functionality not provided by this library.
+There are many good libraries for detecting the user's OS, version and browser so this functionality not provided by this library.
 
-This is not automatically updated from [Adobe's site](http://www.adobe.com/software/flash/about/), but requires manually updating whenever Adobe changes their latest version numbers. To the best of my knowledge, there is no machine readable form of these values.
+Latest versions are *not* automatically updated from [Adobe's version list](http://www.adobe.com/software/flash/about/), but requires manually updating whenever Adobe changes their latest version numbers. To the best of my knowledge, there is no simple, machine readable form of these values.
 
 If you have updated the latest versions yourself, or have implemeneted a way to updating these from Adobe's site - please submit a pull request!
 
