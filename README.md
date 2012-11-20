@@ -30,7 +30,7 @@ List of OS and Browser names
 
 OS names must be one of 'windows', 'mac' , 'linux' or 'solaris'.
 
-Browser names must be one of "firefox", "mozilla", "netscape", "opera", "safari" or "seamonkey".
+Browser names must be one of "ie", "firefox", "mozilla", "netscape", "opera", "safari" or "seamonkey".
 
 Notes
 -----
