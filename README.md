@@ -11,7 +11,6 @@ Call with OS, OS version, and browser. As of this writing, Windows is the only p
 ```javascript
 $.latestFlash('windows', '7', 'ie')
 "11.5.502.110"
-
 $.latestFlash('windows', '8', 'ie')
 "11.3.376.12"
 ```
@@ -30,7 +29,7 @@ List of OS and Browser names
 
 OS names must be one of 'windows', 'mac' , 'linux' or 'solaris'.
 
-Browser names must be one of "ie", "firefox", "mozilla", "netscape", "opera", "safari" or "seamonkey".
+Browser names must be one of "ie", "firefox", "chrome", "mozilla", "netscape", "opera", "safari" or "seamonkey".
 
 Notes
 -----
