@@ -34,7 +34,7 @@ Browser names must be one of "ie", "firefox", "mozilla", "netscape", "opera", "s
 
 Notes
 -----
-There are many good libraries for detecting the users OS, version and browser so this functionality not provided by this libarary.
+There are many good libraries for detecting the users OS, version and browser so this functionality not provided by this library.
 
 This is not automatically updated from [Adobe's site](http://www.adobe.com/software/flash/about/), but requires manually updating whenever Adobe changes their latest version numbers. To the best of my knowledge, there is no machine readable form of these values.
 
